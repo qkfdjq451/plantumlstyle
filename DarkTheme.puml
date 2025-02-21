@@ -5,3 +5,4 @@ skinparam ArrowColor #A6E3A1
 skinparam ActorBackgroundColor #313244
 skinparam ActorBorderColor #A6E3A1
 skinparam SequenceLifeLineBorderColor #89B4FA
+skinparam DefaultTextColor #A6E3A1
